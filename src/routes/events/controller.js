@@ -1,6 +1,6 @@
-const express = require('express')
+import express from 'express';
+import slack from 'slack';
 const eventController = express.Router();
-const slack = require('slack');
 const token = "xoxp-336669666742-335747632355-832198559011-10d5e3a5ae8296fcad7800b5b9eb20d8";
 
 eventController.get('/', async (req, res) => {
@@ -32,4 +32,4 @@ eventController.post('/', async (req, res) => {
     }
 })
 
-module.exports = eventController;
+export default eventController;
