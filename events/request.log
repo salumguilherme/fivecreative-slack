@@ -1,0 +1,130 @@
+Array
+(
+)
+Array
+(
+    [USER] => www-data
+    [HOME] => /var/www
+    [HTTP_X_SLACK_REQUEST_TIMESTAMP] => 1574338053
+    [HTTP_X_SLACK_SIGNATURE] => v0=4990ec91a2fc2fcdf83e7b505c7f0fb7413f75c8ff01cc890b9e25ec48a0d5a0
+    [HTTP_CONTENT_TYPE] => application/json
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate
+    [HTTP_ACCEPT] => */*
+    [HTTP_USER_AGENT] => Slackbot 1.0 (+https://api.slack.com/robots)
+    [HTTP_HOST] => slack.fiveclients.com.au
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => slack.fiveclients.com.au
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 172.31.10.225
+    [REMOTE_PORT] => 56262
+    [REMOTE_ADDR] => 54.83.135.129
+    [SERVER_SOFTWARE] => nginx/1.14.0
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /var/www/clients/slack
+    [DOCUMENT_URI] => /events/index.php
+    [REQUEST_URI] => /events/
+    [SCRIPT_NAME] => /events/index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => application/json
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [SCRIPT_FILENAME] => /var/www/clients/slack/events/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /events/index.php
+    [REQUEST_TIME_FLOAT] => 1574338054.6726
+    [REQUEST_TIME] => 1574338054
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [USER] => www-data
+    [HOME] => /var/www
+    [HTTP_X_SLACK_REQUEST_TIMESTAMP] => 1574338085
+    [HTTP_X_SLACK_SIGNATURE] => v0=da21a472752b5b7fc6a27a06b68e08e1499945915b19a7aa823e2850394e6f50
+    [HTTP_CONTENT_TYPE] => application/json
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate
+    [HTTP_ACCEPT] => */*
+    [HTTP_USER_AGENT] => Slackbot 1.0 (+https://api.slack.com/robots)
+    [HTTP_HOST] => slack.fiveclients.com.au
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => slack.fiveclients.com.au
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 172.31.10.225
+    [REMOTE_PORT] => 24216
+    [REMOTE_ADDR] => 100.24.27.192
+    [SERVER_SOFTWARE] => nginx/1.14.0
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /var/www/clients/slack
+    [DOCUMENT_URI] => /events/index.php
+    [REQUEST_URI] => /events/
+    [SCRIPT_NAME] => /events/index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => application/json
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [SCRIPT_FILENAME] => /var/www/clients/slack/events/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /events/index.php
+    [REQUEST_TIME_FLOAT] => 1574338086.0396
+    [REQUEST_TIME] => 1574338086
+)
+Array
+(
+)
+Array
+(
+)
+Array
+(
+    [USER] => www-data
+    [HOME] => /var/www
+    [HTTP_X_SLACK_REQUEST_TIMESTAMP] => 1574338117
+    [HTTP_X_SLACK_SIGNATURE] => v0=fbd90e44fdaefde59b024e1ab24da10f681ecc771bdee4026ba8b0a957871612
+    [HTTP_CONTENT_TYPE] => application/json
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate
+    [HTTP_ACCEPT] => */*
+    [HTTP_USER_AGENT] => Slackbot 1.0 (+https://api.slack.com/robots)
+    [HTTP_HOST] => slack.fiveclients.com.au
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => slack.fiveclients.com.au
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 172.31.10.225
+    [REMOTE_PORT] => 36150
+    [REMOTE_ADDR] => 54.82.2.204
+    [SERVER_SOFTWARE] => nginx/1.14.0
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /var/www/clients/slack
+    [DOCUMENT_URI] => /events/index.php
+    [REQUEST_URI] => /events/
+    [SCRIPT_NAME] => /events/index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => application/json
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [SCRIPT_FILENAME] => /var/www/clients/slack/events/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /events/index.php
+    [REQUEST_TIME_FLOAT] => 1574338118.5828
+    [REQUEST_TIME] => 1574338118
+)
+Array
+(
+)
+Array
+(
+)
+{"token":"wqNTaN5H9cZcHfW7EqElKOnM","challenge":"F81pacFHBvc4981OM3FZ3H5sycskzCkYl92LamzoHgkclOCo3cUO","type":"url_verification"}

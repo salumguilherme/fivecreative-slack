@@ -1,0 +1,73 @@
+Array
+(
+    [USER] => www-data
+    [HOME] => /var/www
+    [HTTP_X_SLACK_REQUEST_TIMESTAMP] => 1574338181
+    [HTTP_X_SLACK_SIGNATURE] => v0=768ce9066ef35c509b2ebedd370b3ee04bfd619e4d8c1faa075cabd42a23a26f
+    [HTTP_CONTENT_TYPE] => application/json
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate
+    [HTTP_ACCEPT] => */*
+    [HTTP_USER_AGENT] => Slackbot 1.0 (+https://api.slack.com/robots)
+    [HTTP_HOST] => slack.fiveclients.com.au
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => slack.fiveclients.com.au
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 172.31.10.225
+    [REMOTE_PORT] => 17634
+    [REMOTE_ADDR] => 3.208.29.62
+    [SERVER_SOFTWARE] => nginx/1.14.0
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /var/www/clients/slack
+    [DOCUMENT_URI] => /events/index.php
+    [REQUEST_URI] => /events/
+    [SCRIPT_NAME] => /events/index.php
+    [CONTENT_LENGTH] => 
+    [CONTENT_TYPE] => application/json
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [SCRIPT_FILENAME] => /var/www/clients/slack/events/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /events/index.php
+    [REQUEST_TIME_FLOAT] => 1574338182.0412
+    [REQUEST_TIME] => 1574338182
+)
+Array
+(
+    [USER] => www-data
+    [HOME] => /var/www
+    [HTTP_CONTENT_LENGTH] => 129
+    [HTTP_X_SLACK_REQUEST_TIMESTAMP] => 1574338244
+    [HTTP_X_SLACK_SIGNATURE] => v0=89c48a45a5ae947c3f84415256b1af5a87b80ae146c52dcd1dd1226dda0a1d7f
+    [HTTP_CONTENT_TYPE] => application/json
+    [HTTP_ACCEPT_ENCODING] => gzip,deflate
+    [HTTP_ACCEPT] => */*
+    [HTTP_USER_AGENT] => Slackbot 1.0 (+https://api.slack.com/robots)
+    [HTTP_HOST] => slack.fiveclients.com.au
+    [REDIRECT_STATUS] => 200
+    [SERVER_NAME] => slack.fiveclients.com.au
+    [SERVER_PORT] => 443
+    [SERVER_ADDR] => 172.31.10.225
+    [REMOTE_PORT] => 40374
+    [REMOTE_ADDR] => 18.207.152.24
+    [SERVER_SOFTWARE] => nginx/1.14.0
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [HTTPS] => on
+    [REQUEST_SCHEME] => https
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [DOCUMENT_ROOT] => /var/www/clients/slack
+    [DOCUMENT_URI] => /events/index.php
+    [REQUEST_URI] => /events/index.php
+    [SCRIPT_NAME] => /events/index.php
+    [CONTENT_LENGTH] => 129
+    [CONTENT_TYPE] => application/json
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [SCRIPT_FILENAME] => /var/www/clients/slack/events/index.php
+    [FCGI_ROLE] => RESPONDER
+    [PHP_SELF] => /events/index.php
+    [REQUEST_TIME_FLOAT] => 1574338245.3745
+    [REQUEST_TIME] => 1574338245
+)
